@@ -6,3 +6,7 @@ pluginManagement {
 	}
 }
 rootProject.name = 'demo'
+
+springBoot {
+    mainClassName = 'com.example.DemoApplication'
+}
